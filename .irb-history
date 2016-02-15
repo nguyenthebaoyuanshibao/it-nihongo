@@ -1,0 +1,78 @@
+
+17+49
+10.times print("i love you")
+print("i love you")
+""
+"foo"
+"nguyen the bao"
+"i" + "love" +"you"
+"i"+" "+"love"+""+"you"
+first_name="nguyen"
+"#{first_name} the bao"
+puts "foo"
+print "foo"
+"#{foo} bar"
+s.to_a
+s
+s.scrip
+s=String.new("foobar")
+s.class
+s.class.superclass
+s.class.superclass.superclass
+s.class.superclass.superclass.superclass
+class Word
+>>   def palindrome?(string)
+>>     string == string.reverse
+>>   end
+w=Word.new
+w.parindrome?
+class Word def palindrome?(string) string==string.severse   end   end
+nil.to_s
+nil.blank
+controller=StaticPagesController.new
+controller.class
+controller.class.superclass
+controller.class.superclass.superclass
+controller.class.superclass.superclass.superclass
+controller.action
+controller.home
+controller.help
+require './example_user' 
+rm example_user.rb
+require './example_user'
+s="foobar"
+s.join
+s.to_s
+s.to_s.join
+s.split(' ')
+s.split(',')
+User.new
+ user = User.new(name: "Nguyen The Bao", email: "batlieubattinh@gmail.com")
+ user.valid?
+user.save?
+user.update
+user.updatet_at
+ User.create(name: "A Nother", email: "another@example.org")
+foo = User.create(name: "Foo", email: "foo@bar.com")
+foo.destroy
+foo
+User.find(2)
+User.find(1)
+User.find(3)
+User.find_by(email: "batlieubattinh@gmail..com")
+User.find_by(email: "batlieubattinh@gmail.com")
+User.first
+User.all
+user.save
+user.email
+user.email="nguyenthebao16011994"
+user.email="nguyenthebao16011994@gmail.com"
+up.reload.email
+user.created_at
+user.updated_at
+ user.update_attributes(name: "The Dude", email: "dude@abides.org")
+user
+user.reload
+user.reload.email
+user.update_attribute(:name, "The Dude")
+user.name

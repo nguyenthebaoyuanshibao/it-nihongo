@@ -1,0 +1,142 @@
+2015/10/07 12:55:35 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 12:55:36 Setting up node-v4.1.1...
+2015/10/07 12:55:42 done
+2015/10/07 12:55:42 Installing core plugins heroku-cli-addons, heroku-apps, heroku-fork, heroku-git, heroku-local, heroku-run, heroku-status...
+2015/10/07 12:56:08  done
+2015/10/07 12:56:08 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 13:00:51 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 13:07:27 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 13:07:31 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 14:31:04 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 14:32:03 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 14:32:08 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:15:38 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:15:38 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:15:38 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:15:39 Updating plugins... 
+2015/10/07 17:15:56 done
+2015/10/07 17:16:31 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:16:57 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:16:57 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:16:58 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:257:9)
+    at /home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:141:12
+    at IncomingMessage.<anonymous> (/home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:365:5)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+2015/10/07 17:16:58 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2015/10/07 17:18:31 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:18:31 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:18:33 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:257:9)
+    at /home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:141:12
+    at IncomingMessage.<anonymous> (/home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:365:5)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+2015/10/07 17:18:33 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2015/10/07 17:22:09 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:22:12 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:22:19 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:22:20 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:22:20 Email: 
+2015/10/07 17:22:41 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:24:30 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:27:09 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:27:09 running from /home/ubuntu/.heroku/heroku-cli
+2015/10/07 17:27:10 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:257:9)
+    at /home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:141:12
+    at IncomingMessage.<anonymous> (/home/ubuntu/.heroku/node_modules/heroku-run/node_modules/heroku-cli-util/node_modules/heroku-client/lib/request.js:365:5)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:893:12)
+    at doNTCallback2 (node.js:429:9)
+    at process._tickCallback (node.js:343:17)
+2015/10/07 17:27:10 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2015/11/07 02:49:27 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 02:49:28 Updating Heroku v4 CLI to 4.27.2-eb1b3ca (master)... 
+2015/11/07 02:49:28 done
+2015/11/07 02:49:28 Updating plugins... 
+2015/11/07 02:49:51 done
+2015/11/07 02:49:51 rebuilding plugins cache... 
+2015/11/07 02:49:54 done
+2015/11/07 02:50:25 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:33:35 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:33:36 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:33:36 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:35:55 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:35:55 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:35:55 Email: 
+2015/11/07 05:36:19 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:37:57 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:37:57 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:37:57 Email: 
+2015/11/07 05:38:12 [31m ▸    [39mAuthentication failure.
+2015/11/07 05:41:26 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:41:27 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:41:27 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:41:32 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:41:32 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:41:32 Email: 
+2015/11/07 05:42:21 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:47:18 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:49:24 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:50:39 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:51:34 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:54:18 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:57:40 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:57:41 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:57:41 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/07 05:59:35 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:22:08 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:22:08 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:22:08 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:22:09 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:22:09 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:22:09 heroku-cli: Adding dependencies...
+2015/11/08 15:22:14  done
+2015/11/08 15:22:14 Updating plugins... 
+2015/11/08 15:22:30 done
+2015/11/08 15:22:44 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:22:44 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:22:44 Email: 
+2015/11/08 15:23:37 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 15:33:10 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 16:00:47 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 16:28:45 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 16:28:45 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 16:50:37 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 16:51:55 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 16:53:40 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/08 16:54:45 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:40:43 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:40:43 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:40:43 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:40:44 Updating plugins... 
+2015/11/09 04:40:58 done
+2015/11/09 04:43:14 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:43:14 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:43:14 Email: 
+2015/11/09 04:43:29 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:43:29 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:43:29 Email: 
+2015/11/09 04:43:48 [31m ▸    [39mAuthentication failure.
+2015/11/09 04:43:53 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:43:53 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:43:53 Email: 
+2015/11/09 04:46:20 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:46:20 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:56:00 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:56:01 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:56:01 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:56:32 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:56:32 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 04:56:32 Email: 
+2015/11/09 04:57:56 running from /home/ubuntu/.heroku/heroku-cli
+2015/11/09 05:01:06 running from /home/ubuntu/.heroku/heroku-cli
