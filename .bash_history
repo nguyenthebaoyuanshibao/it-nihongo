@@ -102,3 +102,7 @@ clear
 git init
 cd ~workspace/
 cd
+git init
+git status
+git add
+git add -A
